@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\1_Defining_Classes\Exercises\Def_Classes_Exercises\5. Date Modifier\bin\Debug\netcoreapp2.0\5. Date Modifier.deps.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\1_Defining_Classes\Exercises\Def_Classes_Exercises\5. Date Modifier\bin\Debug\netcoreapp2.0\5. Date Modifier.runtimeconfig.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\1_Defining_Classes\Exercises\Def_Classes_Exercises\5. Date Modifier\bin\Debug\netcoreapp2.0\5. Date Modifier.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\1_Defining_Classes\Exercises\Def_Classes_Exercises\5. Date Modifier\bin\Debug\netcoreapp2.0\5. Date Modifier.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\1_Defining_Classes\Exercises\Def_Classes_Exercises\5. Date Modifier\bin\Debug\netcoreapp2.0\5. Date Modifier.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\1_Defining_Classes\Exercises\Def_Classes_Exercises\5. Date Modifier\obj\Debug\netcoreapp2.0\5. Date Modifier.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\1_Defining_Classes\Exercises\Def_Classes_Exercises\5. Date Modifier\obj\Debug\netcoreapp2.0\5. Date Modifier.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\1_Defining_Classes\Exercises\Def_Classes_Exercises\5. Date Modifier\obj\Debug\netcoreapp2.0\5. Date Modifier.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\1_Defining_Classes\Exercises\Def_Classes_Exercises\5. Date Modifier\obj\Debug\netcoreapp2.0\5. Date Modifier.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\1_Defining_Classes\Exercises\Def_Classes_Exercises\5. Date Modifier\obj\Debug\netcoreapp2.0\5. Date Modifier.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\1_Defining_Classes\Exercises\Def_Classes_Exercises\5. Date Modifier\obj\Debug\netcoreapp2.0\5. Date Modifier.pdb

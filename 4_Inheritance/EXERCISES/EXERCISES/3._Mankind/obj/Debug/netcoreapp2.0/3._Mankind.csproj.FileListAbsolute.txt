@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\4_Inheritance\Exercises\Exercises\3._Mankind\bin\Debug\netcoreapp2.0\3._Mankind.deps.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\4_Inheritance\Exercises\Exercises\3._Mankind\bin\Debug\netcoreapp2.0\3._Mankind.runtimeconfig.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\4_Inheritance\Exercises\Exercises\3._Mankind\bin\Debug\netcoreapp2.0\3._Mankind.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\4_Inheritance\Exercises\Exercises\3._Mankind\bin\Debug\netcoreapp2.0\3._Mankind.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\4_Inheritance\Exercises\Exercises\3._Mankind\bin\Debug\netcoreapp2.0\3._Mankind.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\4_Inheritance\Exercises\Exercises\3._Mankind\obj\Debug\netcoreapp2.0\3._Mankind.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\4_Inheritance\Exercises\Exercises\3._Mankind\obj\Debug\netcoreapp2.0\3._Mankind.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\4_Inheritance\Exercises\Exercises\3._Mankind\obj\Debug\netcoreapp2.0\3._Mankind.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\4_Inheritance\Exercises\Exercises\3._Mankind\obj\Debug\netcoreapp2.0\3._Mankind.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\4_Inheritance\Exercises\Exercises\3._Mankind\obj\Debug\netcoreapp2.0\3._Mankind.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\4_Inheritance\Exercises\Exercises\3._Mankind\obj\Debug\netcoreapp2.0\3._Mankind.pdb

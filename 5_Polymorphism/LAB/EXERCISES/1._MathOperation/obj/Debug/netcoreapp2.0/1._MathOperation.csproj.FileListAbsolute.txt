@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\C#Fundamentals\2_OOP Basic\5_Polymorphism\LAB\EXERCISES\1._MathOperation\bin\Debug\netcoreapp2.0\1._MathOperation.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\2_OOP Basic\5_Polymorphism\LAB\EXERCISES\1._MathOperation\bin\Debug\netcoreapp2.0\1._MathOperation.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\2_OOP Basic\5_Polymorphism\LAB\EXERCISES\1._MathOperation\bin\Debug\netcoreapp2.0\1._MathOperation.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\2_OOP Basic\5_Polymorphism\LAB\EXERCISES\1._MathOperation\bin\Debug\netcoreapp2.0\1._MathOperation.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\2_OOP Basic\5_Polymorphism\LAB\EXERCISES\1._MathOperation\bin\Debug\netcoreapp2.0\1._MathOperation.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\2_OOP Basic\5_Polymorphism\LAB\EXERCISES\1._MathOperation\obj\Debug\netcoreapp2.0\1._MathOperation.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\2_OOP Basic\5_Polymorphism\LAB\EXERCISES\1._MathOperation\obj\Debug\netcoreapp2.0\1._MathOperation.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\2_OOP Basic\5_Polymorphism\LAB\EXERCISES\1._MathOperation\obj\Debug\netcoreapp2.0\1._MathOperation.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\2_OOP Basic\5_Polymorphism\LAB\EXERCISES\1._MathOperation\obj\Debug\netcoreapp2.0\1._MathOperation.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\2_OOP Basic\5_Polymorphism\LAB\EXERCISES\1._MathOperation\obj\Debug\netcoreapp2.0\1._MathOperation.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\2_OOP Basic\5_Polymorphism\LAB\EXERCISES\1._MathOperation\obj\Debug\netcoreapp2.0\1._MathOperation.pdb

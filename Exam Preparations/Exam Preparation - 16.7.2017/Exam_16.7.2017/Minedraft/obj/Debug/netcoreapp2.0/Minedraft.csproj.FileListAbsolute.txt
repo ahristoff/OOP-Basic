@@ -1,0 +1,32 @@
+C:\Users\ALEN\Documents\Visual Studio 2017\Projects\Exam_16.7.2017\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.deps.json
+C:\Users\ALEN\Documents\Visual Studio 2017\Projects\Exam_16.7.2017\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.runtimeconfig.json
+C:\Users\ALEN\Documents\Visual Studio 2017\Projects\Exam_16.7.2017\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.runtimeconfig.dev.json
+C:\Users\ALEN\Documents\Visual Studio 2017\Projects\Exam_16.7.2017\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.dll
+C:\Users\ALEN\Documents\Visual Studio 2017\Projects\Exam_16.7.2017\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.pdb
+C:\Users\ALEN\Documents\Visual Studio 2017\Projects\Exam_16.7.2017\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Documents\Visual Studio 2017\Projects\Exam_16.7.2017\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.AssemblyInfoInputs.cache
+C:\Users\ALEN\Documents\Visual Studio 2017\Projects\Exam_16.7.2017\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.AssemblyInfo.cs
+C:\Users\ALEN\Documents\Visual Studio 2017\Projects\Exam_16.7.2017\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.dll
+C:\Users\ALEN\Documents\Visual Studio 2017\Projects\Exam_16.7.2017\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\Exam Preparation - 16.7.2017\Exam_16.7.2017\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.deps.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\Exam Preparation - 16.7.2017\Exam_16.7.2017\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.runtimeconfig.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\Exam Preparation - 16.7.2017\Exam_16.7.2017\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\Exam Preparation - 16.7.2017\Exam_16.7.2017\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\Exam Preparation - 16.7.2017\Exam_16.7.2017\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\Exam Preparation - 16.7.2017\Exam_16.7.2017\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\Exam Preparation - 16.7.2017\Exam_16.7.2017\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\Exam Preparation - 16.7.2017\Exam_16.7.2017\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\Exam Preparation - 16.7.2017\Exam_16.7.2017\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\Exam Preparation - 16.7.2017\Exam_16.7.2017\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\Exam Preparation - 16.7.2017\Exam_16.7.2017\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\2_OOP Basic\Exam Preparations\Exam Preparation 1 - 16.7.2017\Exam_16.7.2017\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\2_OOP Basic\Exam Preparations\Exam Preparation 1 - 16.7.2017\Exam_16.7.2017\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\2_OOP Basic\Exam Preparations\Exam Preparation 1 - 16.7.2017\Exam_16.7.2017\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\C#Fundamentals\2_OOP Basic\Exam Preparations\Exam Preparation 1 - 16.7.2017\Exam_16.7.2017\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\C#Fundamentals\2_OOP Basic\Exam Preparations\Exam Preparation 1 - 16.7.2017\Exam_16.7.2017\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\2_OOP Basic\Exam Preparations\Exam Preparation 1 - 16.7.2017\Exam_16.7.2017\Minedraft\obj\Debug\netcoreapp2.0\Minedraft.pdb
+C:\Users\ALEN\Desktop\C#Fundamentals\2_OOP Basic\Exam Preparations\Exam Preparation 1 - 16.7.2017\Exam_16.7.2017\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.deps.json
+C:\Users\ALEN\Desktop\C#Fundamentals\2_OOP Basic\Exam Preparations\Exam Preparation 1 - 16.7.2017\Exam_16.7.2017\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.runtimeconfig.json
+C:\Users\ALEN\Desktop\C#Fundamentals\2_OOP Basic\Exam Preparations\Exam Preparation 1 - 16.7.2017\Exam_16.7.2017\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\C#Fundamentals\2_OOP Basic\Exam Preparations\Exam Preparation 1 - 16.7.2017\Exam_16.7.2017\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.dll
+C:\Users\ALEN\Desktop\C#Fundamentals\2_OOP Basic\Exam Preparations\Exam Preparation 1 - 16.7.2017\Exam_16.7.2017\Minedraft\bin\Debug\netcoreapp2.0\Minedraft.pdb

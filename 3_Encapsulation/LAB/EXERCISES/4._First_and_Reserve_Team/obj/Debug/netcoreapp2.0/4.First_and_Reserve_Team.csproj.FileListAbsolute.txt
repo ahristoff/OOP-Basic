@@ -1,0 +1,11 @@
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\3_Encapsulation\Lab\Lab\4.First_and_Reserve_Team\bin\Debug\netcoreapp2.0\4.First_and_Reserve_Team.deps.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\3_Encapsulation\Lab\Lab\4.First_and_Reserve_Team\bin\Debug\netcoreapp2.0\4.First_and_Reserve_Team.runtimeconfig.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\3_Encapsulation\Lab\Lab\4.First_and_Reserve_Team\bin\Debug\netcoreapp2.0\4.First_and_Reserve_Team.runtimeconfig.dev.json
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\3_Encapsulation\Lab\Lab\4.First_and_Reserve_Team\bin\Debug\netcoreapp2.0\4.First_and_Reserve_Team.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\3_Encapsulation\Lab\Lab\4.First_and_Reserve_Team\bin\Debug\netcoreapp2.0\4.First_and_Reserve_Team.pdb
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\3_Encapsulation\Lab\Lab\4.First_and_Reserve_Team\obj\Debug\netcoreapp2.0\4.First_and_Reserve_Team.csprojResolveAssemblyReference.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\3_Encapsulation\Lab\Lab\4.First_and_Reserve_Team\obj\Debug\netcoreapp2.0\4.First_and_Reserve_Team.csproj.CoreCompileInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\3_Encapsulation\Lab\Lab\4.First_and_Reserve_Team\obj\Debug\netcoreapp2.0\4.First_and_Reserve_Team.AssemblyInfoInputs.cache
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\3_Encapsulation\Lab\Lab\4.First_and_Reserve_Team\obj\Debug\netcoreapp2.0\4.First_and_Reserve_Team.AssemblyInfo.cs
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\3_Encapsulation\Lab\Lab\4.First_and_Reserve_Team\obj\Debug\netcoreapp2.0\4.First_and_Reserve_Team.dll
+C:\Users\ALEN\Desktop\5_C#Fundamentals\2_OOP Basic\3_Encapsulation\Lab\Lab\4.First_and_Reserve_Team\obj\Debug\netcoreapp2.0\4.First_and_Reserve_Team.pdb
